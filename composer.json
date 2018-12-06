@@ -1,8 +1,8 @@
 {
-    "name": "ngabor84/guzzle-escher-middleware",
+    "name": "emartech/guzzle-escher-middleware",
     "description": "Escher authentication middleware for Guzzle Http Client",
     "keywords": ["guzzle", "http", "middleware", "escher"],
-    "homepage": "https://github.com/ngabor84/guzzle-escher-middleware",
+    "homepage": "https://github.com/emartech/guzzle-escher-middleware",
     "type": "library",
     "license": "MIT",
     "authors": [

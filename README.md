@@ -1,5 +1,5 @@
-[ ![Codeship Status for ngabor84/guzzle-escher-middleware](https://app.codeship.com/projects/6d4dfb70-268d-0136-3230-6a55b20f6c5c/status?branch=master)](https://app.codeship.com/projects/286867) 
-[![GitHub license](https://img.shields.io/github/license/ngabor84/guzzle-escher-middleware.svg)](https://github.com/ngabor84/guzzle-escher-middleware/blob/master/LICENSE.md)
+[ ![Codeship Status for emartech/guzzle-escher-middleware](https://app.codeship.com/projects/cd815f30-db79-0136-acc2-4a98e051cb94/status?branch=master)](https://app.codeship.com/projects/317747) 
+[![GitHub license](https://img.shields.io/github/license/emartech/guzzle-escher-middleware.svg)](https://github.com/emartech/guzzle-escher-middleware/blob/master/LICENSE.md)
 
 
 # Guzzle Escher Middleware
@@ -7,7 +7,7 @@
 This authentication middleware add Escher sign functionality to Guzzle Http Client.
 
 ## Installation
-`composer require ngabor84/guzzle-escher-middleware`
+`composer require emartech/guzzle-escher-middleware`
 
 ## Usage
 ```php
