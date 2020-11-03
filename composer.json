@@ -1,11 +1,15 @@
 {
-    "name": "emartech/guzzle-escher-middleware",
+    "name": "comes/guzzle-escher-middleware",
     "description": "Escher authentication middleware for Guzzle Http Client",
     "keywords": ["guzzle", "http", "middleware", "escher"],
-    "homepage": "https://github.com/emartech/guzzle-escher-middleware",
+    "homepage": "https://github.com/comes/guzzle-escher-middleware",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Jeremias Wolff",
+            "email": "jeremiaswolff@gmail.com"
+        },
         {
             "name": "Gabor Nemeth",
             "email": "negabor@gmail.com"
